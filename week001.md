@@ -1,7 +1,7 @@
 # Week 01 Assignment
 
 ## 1. Colab Notebook URL
-https://colab.research.google.com/
+https://10fastfingers.com/typing-test/vietnamese
 
 ## 2. My GitHub Profile
 https://github.com/hieuem2003na-cyber/stu260303
